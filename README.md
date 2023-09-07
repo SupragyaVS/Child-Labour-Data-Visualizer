@@ -5,10 +5,10 @@ This GitHub repository presents an in-depth analysis of global child labor stati
 
 The core of this project lies in the SQL queries used to extract, manipulate, and analyze the dataset. The SQL queries cover a wide range of analytical tasks, including:
 
-Aggregating child labor statistics by region and country.
-Calculating the percentage of child laborers in different age groups.
-Identifying trends and changes in child labor prevalence over time.
-Analyzing gender-specific patterns in child labor.
+Aggregating child labor statistics by region and country.  
+Calculating the percentage of child laborers in different age groups.   
+Identifying trends and changes in child labor prevalence over time.   
+Analyzing gender-specific patterns in child labor.  
 And more.
 
 These SQL queries are structured to provide detailed insights into the dataset, uncovering meaningful patterns and trends.
