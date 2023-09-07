@@ -30,7 +30,7 @@ ON clm.country_or_area=clf.country_or_area
 ORDER BY ratio ASC;
 
 
---IDENTIFY COUNTRIES WITH WITHER VALUE AS 0
+--IDENTIFY COUNTRIES WITH EITHER VALUE AS 0
 SELECT clm.country_or_area,
        clm.male, 
        clf.female
