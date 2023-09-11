@@ -13,4 +13,6 @@ And more.
 
 These SQL queries are structured to provide detailed insights into the dataset, uncovering meaningful patterns and trends.
 
-Contributions to this project are welcome.
+Contributions to this project are welcome.     
+
+Credits to the UNSC (United Nations Statistics Division) for providing the open source data.
