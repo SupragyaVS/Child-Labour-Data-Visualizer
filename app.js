@@ -8,7 +8,7 @@ const url = "https://public.tableau.com/shared/H34R9KSFG?:display_count=n&:origi
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 1420,
+    height: 1200,
     width: 1800,
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
