@@ -1,5 +1,5 @@
 # Global-Child-Labour-Analysis
-Database Management System Project on the Child Labour using SQL and Tableau
+Database Management System Project on Global Child Labour using SQL and Tableau
 
 This GitHub repository presents an in-depth analysis of global child labor statistics using SQL queries and further visualized using Tableau. The project aims to provide insights into the prevalence and trends of child labor worldwide, offering a comprehensive view of the data through statistical analysis and data visualization.
 
